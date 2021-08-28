@@ -1,2 +1,2 @@
 # Facts-of-the-year-
-This is a simple example of working with EPA and building a small application
+This is a simple example of working with API and building a small application
